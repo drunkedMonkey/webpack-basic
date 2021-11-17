@@ -1,0 +1,1 @@
+export default "I ove Webpack ❤ weeeeee"
